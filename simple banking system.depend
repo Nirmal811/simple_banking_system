@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686821215 source:c:\users\nirma\onedrive\desktop\simple banking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
